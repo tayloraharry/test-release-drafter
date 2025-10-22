@@ -18,6 +18,12 @@ categories:
     labels:
       - 'documentation'
       - 'docs'
+  - title: '🛍️ Item Management'
+    labels:
+      - 'item management'
+  - title: '📊 Data Feeds'
+    labels:
+      - 'data feeds'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 change-title-escapes: '\<*_&' # You can add # and @ to disable mentions, and add ` to disable code blocks.
 version-resolver:
