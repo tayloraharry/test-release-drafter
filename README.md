@@ -72,5 +72,3 @@ You can also add version labels to control semantic versioning:
 ### 📝 Documentation
 - Update API documentation @username (#129)
 ```
-
-NEW BUG
